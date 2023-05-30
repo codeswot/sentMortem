@@ -1,11 +1,11 @@
-# Tools Specification for SentMoterm
+# Tools Specification for SentMotem
 
-This document outlines the choice of tools for building SentMoterm, utilizing the JavaScript stack, AWS Amplify as the backend, AWS Lambda for serverless functions, and Flutter as the mobile app framework. Each tool has been selected to serve a specific purpose and contribute to the overall functionality and success of the application.
+This document outlines the choice of tools for building SentMotem, utilizing the JavaScript stack, AWS Amplify as the backend, AWS Lambda for serverless functions, and Flutter as the mobile app framework. Each tool has been selected to serve a specific purpose and contribute to the overall functionality and success of the application.
 
 ## Backend Tools
 
 ### AWS Amplify
-- Purpose: AWS Amplify is a powerful backend development platform that simplifies the process of building scalable and secure applications. It provides services such as authentication, storage, and database management, which align perfectly with the requirements of SentMoterm.
+- Purpose: AWS Amplify is a powerful backend development platform that simplifies the process of building scalable and secure applications. It provides services such as authentication, storage, and database management, which align perfectly with the requirements of SentMotem.
 - Benefits:
   - Easy integration with various AWS services, ensuring robust and reliable backend infrastructure.
   - Simplified setup and configuration of authentication and authorization mechanisms.
@@ -20,7 +20,7 @@ This document outlines the choice of tools for building SentMoterm, utilizing th
   - Seamless integration with other AWS services, such as API Gateway for creating RESTful APIs.
 
 ### Node.js
-- Purpose: Node.js is a JavaScript runtime environment that allows server-side execution of JavaScript code. It provides a powerful and scalable backend platform for SentMoterm.
+- Purpose: Node.js is a JavaScript runtime environment that allows server-side execution of JavaScript code. It provides a powerful and scalable backend platform for SentMotem.
 - Benefits:
   - JavaScript-based, enabling developers to use a consistent language across the entire tech stack.
   - Rich ecosystem of libraries and frameworks for efficient backend development.
@@ -30,7 +30,7 @@ This document outlines the choice of tools for building SentMoterm, utilizing th
 ### Express.js
 - Purpose: Express.js is a minimalist web application framework for Node.js. It simplifies the development of server-side applications and provides the necessary tools for routing, handling requests, and building RESTful APIs.
 - Benefits:
-  - Lightweight and flexible, allowing developers to create custom backend solutions tailored to the specific needs of SentMoterm.
+  - Lightweight and flexible, allowing developers to create custom backend solutions tailored to the specific needs of SentMotem.
   - Extensive middleware support for handling authentication, data validation, and error handling.
   - Easy integration with other Node.js libraries and frameworks.
   - Well-documented with a large community, ensuring ample resources and support.
@@ -52,4 +52,4 @@ This document outlines the choice of tools for building SentMoterm, utilizing th
 
 ## Conclusion
 
-The chosen tools for SentMoterm,
+The chosen tools for SentMotem,
